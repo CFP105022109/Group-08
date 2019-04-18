@@ -5,7 +5,7 @@ Foucault pendulum Simulation
 1. 黃子蘋(105022109) <br/>
 2. 蕭科洋(106022216) <br/>
 3. 陳映如(106034062) <br/>
-
+嗨嗨
 ## II. Goal
 
 ## III. Step
