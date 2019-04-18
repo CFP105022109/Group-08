@@ -7,3 +7,8 @@ Foucault pendulum Simulation
 3. 陳映如(106034062) <br/>
 
 ## II. Goal
+
+## III. Step
+
+## IV. Assignment
+
