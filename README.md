@@ -1,4 +1,5 @@
 # Group-08
+Foucault pendulum Simulation
 
 ## I. Members
 1. 黃子蘋(105022109) <br/>
