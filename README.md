@@ -19,15 +19,15 @@ Foucault pendulum Simulation
 5. To minimuze the length and the weight of the system <br/>
 
 ## IV. Assignment
-●做傅科擺理論<br/>
+● 做傅科擺理論<br/>
   黃子蘋(105022109)<br/>
-●查參數<br/>
+● 查參數<br/>
   蕭科洋(106022216)<br/>
-●coding<br/>
+● coding<br/>
   陳映如(106034062)<br/>
   黃子蘋(105022109)<br/>
-●整理<br/>
+● 整理<br/>
   陳映如(106034062)<br/>
-●報告<br/>
+● 報告<br/>
   蕭科洋(106022216)<br/>
   
