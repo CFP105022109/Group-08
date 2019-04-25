@@ -7,9 +7,9 @@ Foucault pendulum Simulation
 3. 陳映如(106034062) <br/>
 
 ## II. Goal
-Simulate the oscillation of Foucault pendulum <br/>
-Compare the different pattern of Foucault pendulum at different latitudes <br/>
-Find the minimize size of Foucault pendulum <br/>
+1. Simulate the oscillation of Foucault pendulum <br/>
+2. Compare the different pattern of Foucault pendulum at different latitudes <br/>
+3. Find the minimize size of Foucault pendulum <br/>
 
 ## III. Step
 
