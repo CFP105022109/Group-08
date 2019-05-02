@@ -1,5 +1,5 @@
 # Group-08
-Foucault pendulum Simulation
+擬合數據並去除
 
 ## I. Members
 1. 黃子蘋(105022109) <br/>
@@ -7,27 +7,22 @@ Foucault pendulum Simulation
 3. 陳映如(106034062) <br/>
 
 ## II. Goal
-1. Simulate the oscillation of Foucault pendulum <br/>
-2. Compare the different pattern of Foucault pendulum at different latitudes <br/>
-3. Find the minimize size of Foucault pendulum <br/>
+1. 讀取數據並分段做exponential fitting<br/>
+2. 去除不符合exponential decay的數據點<br/>
+3. 得到exponential decay的fitting結果<br/>
 
 ## III. Step
-1. Find the theory of Foucault pendulum <br/>
-2. Check the parameters and details <br/>
-3. Coding <br/>
-4. Plot the patterns of Foucault pendulum depends on latitudes and compare <br/>
-5. To minimuze the length and the weight of the system <br/>
+1. 讀取txt檔中的數字部分並轉成list<br/>
+2. 將數據做圖並分段<br/>
+3. 將分段後的數據分別做exponential decay的fitting<br/>
+4. 取符合exponential decay的分段以及前後兩段<br/>
+5. 將刪減後的數據分段得更細並去除不符合做exponential fitting的數據點<br/>
+6. 進行去exponential decay的fitting得到fitting的結果<br/>
 
 ## IV. Assignment
-● 做傅科擺理論<br/>
-  黃子蘋(105022109)<br/>
-● 查參數<br/>
-  蕭科洋(106022216)<br/>
-● coding<br/>
+● 讀取txt檔中的數據<br/>
   陳映如(106034062)<br/>
-  黃子蘋(105022109)<br/>
-● 整理<br/>
-  陳映如(106034062)<br/>
-● 報告<br/>
+● 數據分段<br/>
   蕭科洋(106022216)<br/>
+
   
